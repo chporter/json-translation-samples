@@ -3,15 +3,19 @@ json-translation-samples
 
 Samples of the JSON, to be used to translate into model specific files.
 
-__ufga8201_single-OLD.json__ - The old version of the .json file specification.
-This version does _NOT_ support multiple experiments.
-__ufga8201_single.json__ - The new version of the .json file, with only one
-treatment. The format supports multiple experiments.
-__ufga8201_multi.json__ - The new version of the .json file, with all six
-treatments. This show multiple experiments.
+__hsc.json__
+  Hot Serial Cereal dataset, 0 weather, 1 soil, 63 experiments
+
+__mach_fast.json__
+  Machakos dataset, 1 weather, 1 soil, 30 generated experiments (based on 1 field)
+
+__mach_full.json__
+  Machakos dataset, 4 weathers, 15 soisl, 1410 generated experiments (based on 47 fields)
+
+
 
 Notes
 =====
 
-The multiple experiments are tied to the weathers and soils by
+Multiple experiments are tied to the weathers and soils by
 wst_id and soil_id respectively.
