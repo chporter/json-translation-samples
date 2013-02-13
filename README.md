@@ -10,8 +10,10 @@ __mach_fast.json__
   Machakos dataset, 1 weather, 1 soil, 30 generated experiments (based on 1 field)
 
 __mach_full.json__
-  Machakos dataset, 4 weathers, 15 soisl, 1410 generated experiments (based on 47 fields)
+  Machakos dataset, 4 weathers, 15 soils, 1410 generated experiments (based on 47 fields)
 
+__mach_full_raw.json__
+  Machakos dataset, 4 weathers, 15 soils, 47 fields (not complete data)
 
 
 Notes
