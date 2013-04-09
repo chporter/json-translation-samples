@@ -4,7 +4,7 @@ json-translation-samples
 Samples of the JSON, to be used to translate into model specific files.
 
 __hsc.json__
-  Hot Serial Cereal dataset, 0 weather, 1 soil, 63 experiments
+  Hot Serial Cereal dataset, 19 weathers, 1 soil, 63 experiments
 
 __mach_fast.json__
   Machakos dataset, 1 weather, 1 soil, 30 generated experiments (based on 1 field)
