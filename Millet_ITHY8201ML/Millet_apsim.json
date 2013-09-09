@@ -681,8 +681,9 @@
 		"wndht": "3.0",
 		"wst_notes": "Hyderabad,India",
 		"refht": "2.0",
-		"dssat_wst_id": "ITHY",
+		"dssat_insi": "ITHY",
 		"wst_id": "ITHY",
+		"clim_id":"0XXX"
 		"wst_name": "ITHY",
 		"dailyWeather": [{
 			"tmax": "26.7",
